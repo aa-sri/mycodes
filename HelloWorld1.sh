@@ -4,4 +4,6 @@
 
 echo "Welcome to github"
 
-echo "trying to merge branches"
+echo "trying to merge branches first time"
+
+#done
